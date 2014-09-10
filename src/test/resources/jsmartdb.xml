@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<persistence>
+	<properties>
+		<property name="connection.driver.class" value="com.mysql.jdbc.Driver" />
+		<property name="connection.username" value="root" />
+		<property name="connection.password" value="root" />
+		<property name="connection.url" value="jdbc:mysql://localhost:3306/jsmartdb" />
+	    <property name="sql.show.sql" value="false"/>
+	    <property name="sql.dialect" value="MySQL"/>
+    </properties>
+</persistence>
